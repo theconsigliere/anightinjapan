@@ -1,9 +1,12 @@
 ---
-layout: "post"
 title: Everbody wears Supreme
-excerpt: One of the five supreme stores is located in omotensando in harajuku, Tokyo, and this store is a smaller one in Tokyo comparing with the other one in Shibuya.
-date: 2019-01-21 14:26:01 +0000
-categories: jekyll update
+date: 2019-01-21 14:26:01 Z
+categories:
+- jekyll
+- update
+layout: post
+excerpt: One of the five supreme stores is located in omotensando in harajuku, Tokyo,
+  and this store is a smaller one in Tokyo comparing with the other one in Shibuya.
 ---
 
 One of the five supreme stores is located in omotensando in harajuku, Tokyo, and this store is a smaller one in Tokyo comparing with the other one in Shibuya. If you have viewed my last article about goro's which is also in omotensando, this supreme is exactly close to the goro's. You just have to turn left into the a narrow street as you see goro's and a smart red logo saying, ["supreme"](https://www.supremenewyork.com/) will show up. It is one the second floor based on the black neighbourhood clothing store. I went upstairs and step in the store and a strong feeling of skateboarding culture impressed me a lot. There was a big screen always playing skateboarding videos and a huge arc light was in the right corner of the shop. The staffs is normally friendly to you, while staffs in Shibuya got a worse attitude to travelers.

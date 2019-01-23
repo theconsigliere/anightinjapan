@@ -1,7 +1,9 @@
 ---
-layout: "post"
 title: All of the lights
-excerpt: The nightlife here runs the gamut, from rowdy izakayas and beer bars, to red-light entertainment and the infamous Robot Restaurant.
+date: 2019-01-21 00:00:00 Z
+layout: post
+excerpt: The nightlife here runs the gamut, from rowdy izakayas and beer bars, to
+  red-light entertainment and the infamous Robot Restaurant.
 ---
 
 Tokyo is one of the most exciting cities on Earth, and has a legendary nightlife. You can begin your evening at a tachinomi stand bar, drink and dine at a cozy izakaya, enjoy seasonal cocktails at an only-in-Tokyo mixology counter, venture into a hole-in-the-wall rock or hip hop club, sing all-night karaoke à la Bill Murray in Lost in Translation, and dance until morning to the beats of DJs from around the world. In short, Tokyo is home to one of the most diverse and fascinating nightlife scenes on the planet!
