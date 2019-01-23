@@ -21,8 +21,8 @@ defaults:
     layout: post
 email: hello@maxwellkirwin.com
 description: A blog about Japan.
-baseurl: ''
-url: ''
+baseurl: 
+url: 
 twitter_username: 
 github_username: theconsigliere
 markdown: kramdown
